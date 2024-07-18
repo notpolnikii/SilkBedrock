@@ -1,0 +1,7 @@
+name: SilkBedrock
+version: '1.0-SNAPSHOT'
+main: madoka.silkBedrock.SilkBedrock
+api-version: '1.21'
+prefix: Madoka SilkBedrock
+authors: [ MadokaStudio ]
+description: A plugin that allows you to mine bedrock in survival.
